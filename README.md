@@ -1,6 +1,8 @@
 # HomeCart Online Shopping
 
 ![HomeCart Logo](https://github.com/ashutosh720/HomeCart-Ecommerce/assets/112875409/90b1f0ab-821c-4aab-bf85-163fcf7cd916)
+![Home Page](https://github.com/ashutosh720/HomeCart-Ecommerce/assets/112875409/974ac6e7-d638-4a1f-ac71-5932ecb19915)
+
  
 
 HomeCart is an online shopping website that offers a wide range of products, including furniture, fashion, electronics, and more. This project is a simple web application built using HTML, CSS, and JavaScript.
@@ -13,7 +15,7 @@ HomeCart is an online shopping website that offers a wide range of products, inc
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
@@ -35,5 +37,30 @@ You can view a  demo clip of the project [here](https://github.com/ashutosh720/H
 ## Installation
 
 1. Clone the repository:
+   git clone https://github.com/ashutosh720/HomeCart-Ecommerce.git
+
+2. Navigate to the project directory
+   cd HomeCart-Ecommerce
+
+3. Open the index.html file in your preferred web browser.
+
+## Usage
+
+- Navigate through the website using the top navigation menu.
+- Explore the featured products in the image slider.
+- Browse different product categories on the homepage.
+- Use the search bar to search for specific products.
+
+## Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvement, please feel free to open an issue or submit a pull request.
+
+### Fork the repository.
+- Create your feature branch: git checkout -b feature/new-feature
+- Commit your changes: git commit -m 'Add some new feature'
+- Push to the branch: git push origin feature/new-feature
+- Open a pull request.
+
+
 
 
