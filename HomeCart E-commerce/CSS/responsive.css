@@ -1,0 +1,43 @@
+@media screen and (max-width: 768px) {
+    header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 10px;
+    }
+    
+    .log {
+      margin-bottom: 10px;
+    }
+  
+    nav ul {
+      flex-direction: column;
+      align-items: center;
+      height: auto;
+    }
+  
+    nav ul li a {
+      padding: 10px 0;
+      display: block;
+      text-align: center;
+    }
+  
+    .search input {
+      width: 80%; /* Adjust the search input width for smaller screens */
+      margin-left: 0;
+    }
+  
+    /* .slider {
+      
+    } */
+  
+    .cards {
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .card {
+      max-width: 90%;
+      margin-bottom: 20px;
+    }
+  }
