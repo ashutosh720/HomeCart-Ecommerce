@@ -30,7 +30,7 @@ This project aims to provide users with a user-friendly and responsive online sh
 
 ## Demo
 
-You can view a live demo of the project [here](https://github.com/ashutosh720/HomeCart-Ecommerce/assets/112875409/90b1f0ab-821c-4aab-bf85-163fcf7cd916). <!-- Replace 'link_to_live_demo' with the actual link to your live demo if you have one hosted -->
+You can view a  demo clip of the project [here](https://github.com/ashutosh720/HomeCart-Ecommerce/blob/main/HomeCart%20E-commerce/HCREC.mp4). 
 
 ## Installation
 
