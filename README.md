@@ -7,7 +7,7 @@ HomeCart is an online shopping website that offers a wide range of products, inc
 
 ## Table of Contents
 
-- [Introduction]
+- [Introduction](#Introduction)
 - [Features](#features)
 - [Demo](#demo)
 - [Installation](#installation)
