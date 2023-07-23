@@ -1,6 +1,7 @@
 # HomeCart Online Shopping
 
-![HomeCart Logo](path_to_your_logo.png) <!-- Replace 'path_to_your_logo.png' with the actual path to your logo -->
+![HomeCart Logo]![image](https://github.com/ashutosh720/HomeCart-Ecommerce/assets/112875409/c02c4956-3110-4786-92ec-22256f788a45)
+ <!-- Replace 'path_to_your_logo.png' with the actual path to your logo -->
 
 HomeCart is an online shopping website that offers a wide range of products, including furniture, fashion, electronics, and more. This project is a simple web application built using HTML, CSS, and JavaScript.
 
